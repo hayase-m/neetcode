@@ -3,3 +3,7 @@
 ### 工夫点
 dequeにはvalueではなくindexをいれる
 →この問題はindex,valueの両方が必要。indexをdeque，valueをnums[index]で取得するという役割分担。
+
+## Find the Duplicate Number
+### 工夫点
+floydのアルゴリズムを使う

@@ -7,3 +7,7 @@ dequeにはvalueではなくindexをいれる
 ## Find the Duplicate Number
 ### 工夫点
 floydのアルゴリズムを使う
+
+## Maximum Subarray
+### 工夫点
+Kadane's Algorithmを使う
